@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Labirent_oyunu
+namespace MazeGame
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Controller controller = new Controller();
+            Console.ReadKey();
         }
     }
 }
