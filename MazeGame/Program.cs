@@ -11,7 +11,6 @@ namespace MazeGame
         static void Main(string[] args)
         {
             Controller controller = new Controller();
-            Console.ReadKey();
         }
     }
 }
